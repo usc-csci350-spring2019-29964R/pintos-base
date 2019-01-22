@@ -9,7 +9,7 @@ A link to the online Pintos documentation [can be found here](http://web.stanfor
 ## Repository Setup
 Name: Tommy Trojan
 
-Email: ttrojan@usc.edu
+Email: ghinita@usc.edu
 
 ID: 1234567890
 
